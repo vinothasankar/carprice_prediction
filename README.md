@@ -60,4 +60,4 @@ Streamlit Application: Deploy the final model using Streamlit to create an inter
 Allow users to input car features and get real-time price predictions.
 User Interface Design: Ensure the application is user-friendly and intuitive.
 Provide clear instructions and error handling.
-obtained 87% accuracy
+obtained(R-Squared Score: 0.8691390591709017) 87% accuracy
