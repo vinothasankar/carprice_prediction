@@ -1,6 +1,6 @@
 newc.ipynb,omcars.ipynb - Source code for data preprocessing and model development.
 price.py - Deployed Streamlit application for price prediction.
-car_price.png - screenshot of streamlit app
+car_price.png - screenshot of streamlit app,final_regressor.pkl - model
 
 Approach:
  Data Processing
