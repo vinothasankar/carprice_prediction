@@ -58,11 +58,11 @@ Used techniques like Grid Search or Random Search.
 Performance Metrics: Evaluated model performance using relevant metrics.
 Mean Absolute Error (MAE), Mean Squared Error (MSE), R-squared.
 
-obtained accuracy - 
+obtained accuracy - 87%
  Deployment
 Streamlit Application: Deployed the final model using Streamlit to create an interactive web application.
-Allows users to input car features and get real-time price predictions.
+that allows users to input car features and get real-time price predictions.
 
-User Interface Design: Ensure the application is user-friendly and intuitive.
+User Interface Design: Ensured that the application is user-friendly and intuitive.
 
 obtained(R-Squared Score: 0.8691390591709017) 87% accuracy
